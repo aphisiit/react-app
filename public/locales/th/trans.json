@@ -1,0 +1,10 @@
+{
+  "title" : "React web application",
+  "button_login" : "เข้าสู่ระบบ",
+  "button_register" : "ลงชื่อเข้าใช้",
+  "label_username" : "ชื่อผู้ใช้",
+  "label_password" : "รหัสผ่าน",
+  "button_change_lang_th" : "เปลี่ยนเป็นภาษาไทย",
+  "button_change_lang_en" : "เปลี่ยนเป็นภาษาอังกฤษ",
+  "lang_text" : "ภาษาไทย"
+}

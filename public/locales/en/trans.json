@@ -1,0 +1,10 @@
+{
+  "title" : "React web application",
+  "button_login" : "Login",
+  "button_register" : "Register",
+  "label_username" : "Username",
+  "label_password" : "Password",
+  "button_change_lang_th" : "Change language to Thai",
+  "button_change_lang_en" : "Change language to English",
+  "lang_text" : "English"
+}
