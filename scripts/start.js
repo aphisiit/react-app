@@ -105,3 +105,22 @@ choosePort(HOST, DEFAULT_PORT)
     }
     process.exit(1);
   });
+
+
+// var Log = require('log')
+//     , log = new Log('debug', fs.createWriteStream('log/my.log'));
+//
+// log.debug('preparing email');
+// log.info('sending email');
+// log.error('failed to send email');
+
+const log4js = require('log4js');
+log4js.configure('./config/log4js.json');
+
+const logger = log4js.getLogger('cheese');
+logger.trace('Entering cheese testing');
+logger.debug('Got cheese.');
+logger.info('Cheese is Gouda.');
+logger.warn('Cheese is quite smelly.');
+logger.error('Cheese is too ripe!');
+logger.fatal('Cheese was breeding ground for listeria.');
