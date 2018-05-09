@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 import i18n from './i18n';
 import { translate } from 'react-i18next';
 import './App.css';
-import Logger from './Logger';
 
 // var log = require('log4js');//.getLogger('App');
 
