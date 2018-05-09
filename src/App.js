@@ -2,6 +2,21 @@ import React, { Component } from 'react';
 import i18n from './i18n';
 import { translate } from 'react-i18next';
 import './App.css';
+import Logger from './Logger';
+
+// var log = require('log4js');//.getLogger('App');
+
+// log.debug("This is in App.js");
+
+
+// const fs = require('fs');
+// var Log = require('log')
+//     , log = new Log('debug', fs.createWriteStream('app.log'));
+//
+// log.debug('preparing email app');
+// log.info('sending email app');
+// log.error('failed to send email app');
+
 
 let button_center = {
     textAlign : "center",
