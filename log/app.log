@@ -8,3 +8,8 @@
 [2018-05-09T16:26:45.024] [WARN] cheese - Cheese is quite smelly.
 [2018-05-09T16:26:45.024] [ERROR] cheese - Cheese is too ripe!
 [2018-05-09T16:26:45.024] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2018-05-10T01:49:05.339] [DEBUG] start.js - Got cheese.
+[2018-05-10T01:49:05.355] [INFO] start.js - Cheese is Gouda.
+[2018-05-10T01:49:05.355] [WARN] start.js - Cheese is quite smelly.
+[2018-05-10T01:49:05.355] [ERROR] start.js - Cheese is too ripe!
+[2018-05-10T01:49:05.355] [FATAL] start.js - Cheese was breeding ground for listeria.

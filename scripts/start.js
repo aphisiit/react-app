@@ -117,7 +117,7 @@ choosePort(HOST, DEFAULT_PORT)
 const log4js = require('log4js');
 log4js.configure('./config/log4js.json');
 
-const logger = log4js.getLogger('cheese');
+const logger = log4js.getLogger('start.js');
 logger.trace('Entering cheese testing');
 logger.debug('Got cheese.');
 logger.info('Cheese is Gouda.');
