@@ -33,7 +33,7 @@
     "log": "^1.4.0",
     "log4js": "^2.5.3",
     "mailgun-js": "^0.18.0",
-    "nodemailer": "^4.6.4",
+    "nodemailer": "^6.4.16",
     "object-assign": "4.1.1",
     "postcss-flexbugs-fixes": "3.2.0",
     "postcss-loader": "2.0.8",
